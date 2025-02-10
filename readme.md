@@ -71,8 +71,8 @@ We welcome contributions! To contribute:
 
 ## Demo Screenshot
 
-![Chatbot Demo](Screenshot%20from%202025-02-10%2022-52-47.png)
-![Dark Mode](Screenshot%20from%202025-02-10%2022-52-54.png)
+![Chatbot Demo](Normal.png)
+![Dark Mode](Dark_Mode.png)
 
 ## Requirements
 The required dependencies for this project are listed in `requirements.txt`:
