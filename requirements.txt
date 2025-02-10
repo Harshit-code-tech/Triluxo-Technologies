@@ -6,3 +6,5 @@ requests
 beautifulsoup4
 torch
 tqdm
+Python 3.12.3
+
