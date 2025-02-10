@@ -1,0 +1,8 @@
+Flask
+langchain
+chromadb
+selenium
+requests
+beautifulsoup4
+torch
+tqdm
