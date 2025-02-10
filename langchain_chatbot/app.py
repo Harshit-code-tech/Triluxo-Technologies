@@ -1,6 +1,6 @@
 from flask import Flask, request, render_template
 from flask_restful import Api, Resource
-from query_engine import get_chroma_vector_store, handle_query
+from .query_engine import get_chroma_vector_store, handle_query
 import traceback
 
 app = Flask(__name__, template_folder="templates", static_folder="static")
