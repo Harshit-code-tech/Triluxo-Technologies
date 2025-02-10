@@ -6,5 +6,5 @@ requests
 beautifulsoup4
 torch
 tqdm
-3.11.11
+
 
