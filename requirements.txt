@@ -6,6 +6,7 @@ chromadb
 selenium
 requests
 beautifulsoup4
+tensorflow
 torch
 tqdm
 gunicorn
